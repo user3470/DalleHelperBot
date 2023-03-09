@@ -11,3 +11,5 @@ Chatbot to help you craft DALLE prompts
 - Style (3D, photo, art, painting, abstract, etc)
 - Camera (location, angle, type)
 - Effects (sepia, motion blur, macro)
+
+https://youtu.be/bXGdT5ApCd4
